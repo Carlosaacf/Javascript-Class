@@ -1,6 +1,11 @@
 "use strict"
 
-if(true){
-    var nome = "bruno"
-}
+let nome = "bruno"
+nome = "CFB CURSOS"
+nome = 10
 console.log(nome)
+
+const curso="Javascript"
+
+curso="HTML"
+console.log(curso)
